@@ -122,6 +122,12 @@ Operator SSH → Start Video Stream + Control Session
 | Session 2 | Cybersecurity tool execution & navigation |
 
 ---
+### Updating suggested Packages
+<img width="1559" height="780" alt="image" src="https://github.com/user-attachments/assets/39b331df-0fbc-4045-bc12-dbce68e12905" />
+
+
+
+---
 
 ## **8. Video Streaming Pipeline**
 
