@@ -82,6 +82,10 @@ To develop a remotely operated mobile platform capable of:
 | Structural wiring & 3D Mounts   | Assembly support                            |
 
 ---
+### 3-D Modeling of the Platform Chassie
+![IMG-20251116-WA0006](https://github.com/user-attachments/assets/25109d5d-27f5-4c9e-9a4f-0a2201937722)
+
+---
 
 ## **6. Software Stack**
 
@@ -95,6 +99,11 @@ To develop a remotely operated mobile platform capable of:
 | BLE Tools         | BlueZ, Bettercap                              |
 | IoT Recon         | nmap, masscan, searchsploit                   |
 | Utility           | Python & Bash scripting                       |
+
+---
+## Power Supply Workflow diagram
+<img width="691" height="121" alt="Power Supply Diagram drawio (1)" src="https://github.com/user-attachments/assets/74a8e61c-4f62-4f10-b242-554d76e874bf" />
+
 
 ---
 
@@ -167,6 +176,11 @@ Capabilities:
 * Automated exploit lookup via searchsploit
 
 ---
+## Kill Switch workflow
+<img width="1121" height="273" alt="_Kill-Switch Command Flow drawio (1)" src="https://github.com/user-attachments/assets/73e5a99e-89e8-48dd-b913-da8fbc4b04e5" />
+
+
+---
 
 ## **10. Operational Workflow**
 
@@ -206,6 +220,10 @@ Capabilities:
 | Response                   | Pipeline rebuilt & restored |
 
 ---
+### Communication Networking Workflow
+<img width="1091" height="321" alt="Communication _ Networking Flow Diagram drawio (1)" src="https://github.com/user-attachments/assets/a3856ad6-332e-4a35-aa75-587736dc7578" />
+
+---
 
 ## **13. Challenges & Solutions**
 
@@ -217,12 +235,21 @@ Capabilities:
 | Live demo failure      | Manual rapid pipeline recovery     |
 
 ---
+### Final Assembled Rover
+[Rover Full Build]
+<img width="1123" height="994" alt="image" src="https://github.com/user-attachments/assets/63b3925e-626b-458c-bef5-7568dd2665af" />
 
+
+---
 ## **14. Team Members**
 
-Tirthak Likhar
-Ayush Shrikhande
+Tirthak Likhar, 
+Ayush Shrikhande, 
 Ambar Kumar
+
+## Final Year Thesis 
+<img width="1118" height="996" alt="image" src="https://github.com/user-attachments/assets/c0e256d1-450c-4f4f-b389-091dfb809b7a" />
+
 
 ---
 
@@ -246,4 +273,7 @@ Unauthorized wireless exploitation is illegal and punishable by law.
 MIT License (for academic reference only)
 
 ---
+## **18. Just a Fun Reference From COD**
+![IMG-20251116-WA0007](https://github.com/user-attachments/assets/9349ef2d-175b-47f6-8f6b-78a78ffb6056)
 
+---
