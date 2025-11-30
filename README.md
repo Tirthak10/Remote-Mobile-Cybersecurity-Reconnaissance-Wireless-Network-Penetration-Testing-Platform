@@ -273,7 +273,7 @@ Unauthorized wireless exploitation is illegal and punishable by law.
 MIT License (for academic reference only)
 
 ---
-## **18. Just a Fun Reference From COD**
+## **18. Just a Fun Reference From The (Call Off Duty) **
 ![IMG-20251116-WA0007](https://github.com/user-attachments/assets/9349ef2d-175b-47f6-8f6b-78a78ffb6056)
 
 ---
