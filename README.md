@@ -236,7 +236,7 @@ Capabilities:
 
 ---
 ### Final Assembled Rover
-[Rover Full Build]
+
 <img width="1123" height="994" alt="image" src="https://github.com/user-attachments/assets/63b3925e-626b-458c-bef5-7568dd2665af" />
 
 
