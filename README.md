@@ -1,0 +1,2 @@
+# Remote-Mobile-Cybersecurity-Reconnaissance-Wireless-Network-Penetration-Testing-Platform
+This project presents the design and implementation of a remotely controlled mobile cybersecurity reconnaissance and wireless penetration testing platform, built using a Raspberry Pi 5 mounted on an RC car chassis. The system enables field-deployable wireless network assessments through secure remote access, real-time low-latency video streaming.
